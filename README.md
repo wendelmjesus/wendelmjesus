@@ -14,9 +14,8 @@ Meu objetivo é aprimorar minhas habilidades, desenvolver projetos para minha ev
 
 
 <h3>👨🏾‍💻- O que estou aprendendo agora?</h3>
-📌 <i>Desenvolvimento Web;</i> <br>
-📌 <i>Aprimorando minhas habilidades nas linguagens de progamação que já possuo conhecimento;</i> <br>
-
+📌 <i>Desenvolvimento Web (HTML, CSS e JS);</i> <br>
+📌 <i>Aprimorando minhas habilidades nas linguagens de programação que já conheço;
 
 
 
