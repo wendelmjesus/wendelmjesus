@@ -72,28 +72,6 @@ I'm continuously improving my programming fundamentals, software architecture kn
 
 ---
 
-## 📚 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript" />
-</p>
-
-* ⚛️ React
-* 🟢 Node.js
-* 🔷 TypeScript
-* 🔌 REST APIs
-* 🗄️ SQL & Database Design
-* 🏗️ Software Architecture
-* 🌐 Full Stack Development
-
----
-
-## 🎯 Goals
-
-My goal is to become a **Full Stack Developer**, strengthening my knowledge across front-end, back-end and databases while learning to build clean, maintainable and well-structured applications.
-
----
-
 <p align="center">
   <i>Learning • Building • Improving</i>
 </p>
