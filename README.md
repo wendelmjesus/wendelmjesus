@@ -1,35 +1,54 @@
 <h1 align="center">Hi, I'm Wendel 👋</h1>
 
-<h3 align="center">Computer Science Student • Software Development</h3>
+<h3 align="center">Computer Science Student • Full Stack Development</h3>
 
 <p align="center">
-  Building, learning and improving through real projects.
+  Building modern applications and continuously improving my skills across front-end, back-end and databases.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** interested in software development and technology.
+I'm a **Computer Science student** focused on becoming a **Full Stack Developer**.
 
-I enjoy learning by building practical applications and understanding how different parts of software work together, from interfaces and application logic to databases and data persistence.
+I enjoy building applications and understanding the complete development process, from creating responsive user interfaces to developing back-end logic, working with APIs and managing databases.
 
-Currently, I'm focused on improving my programming fundamentals and developing better, more organized and maintainable software.
+I'm continuously improving my programming fundamentals, software architecture knowledge and development practices through hands-on learning.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Technologies
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java" />
 </p>
 
-### Database & Tools  
+### 🎨 Front-End
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p></p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+### ⚙️ Back-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -54,21 +73,23 @@ Currently, I'm focused on improving my programming fundamentals and developing b
 
 ## 📚 Currently Learning
 
-* 🐍 Python
+* ⚛️ React
+* 🟢 Node.js
+* 🔌 REST APIs
+* 🗄️ SQL & Database Design
 * 🧩 Object-Oriented Programming
-* 🗄️ Databases & SQL
 * 🏗️ Software Architecture
-* 🌐 Web Development
+* 🌐 Full Stack Development
 * 🌿 Git & GitHub
 
 ---
 
 ## 🎯 Goals
 
-My goal is to keep improving as a developer by building real applications, strengthening my programming fundamentals and learning how to create software that is clean, organized and maintainable.
+My goal is to become a **Full Stack Developer**, strengthening my knowledge across front-end, back-end and databases while learning to build scalable, maintainable and well-structured applications.
 
 ---
 
 <p align="center">
-  <i>Learning by building.</i>
+  <i>Learning. Building. Improving.</i>
 </p>
