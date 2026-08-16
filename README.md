@@ -8,10 +8,6 @@
   Building, learning and improving through real projects.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wendelmjesus&style=flat-square" alt="Profile views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
