@@ -39,18 +39,18 @@ I enjoy turning ideas into functional projects while continuously improving my p
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=wendelmjesus&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api?username=wendelmjesus&show_icons=true&hide_border=true&theme=transparent"
     alt="Wendel's GitHub Stats"
   />
+
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelmjesus&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=wendelmjesus&layout=compact&hide_border=true&theme=transparent"
     alt="Most Used Languages"
   />
 </p>
