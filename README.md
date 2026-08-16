@@ -26,11 +26,7 @@ Currently, I'm focused on improving my programming fundamentals and developing b
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-### Database & Tools
-
-<p>
-### Database & Tools
-  
+### Database & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p></p>
