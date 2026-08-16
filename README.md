@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student • Full Stack Development</h3>
 
 <p align="center">
-  Building modern applications and continuously improving my skills across front-end, back-end and databases.
+  Building, learning and improving through real projects.
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 I'm a **Computer Science student** focused on becoming a **Full Stack Developer**.
 
-I enjoy building applications and understanding the complete development process, from creating responsive user interfaces to developing back-end logic, working with APIs and managing databases.
+I enjoy building applications and understanding the complete development process, from creating user interfaces to developing back-end logic, working with APIs and managing databases.
 
 I'm continuously improving my programming fundamentals, software architecture knowledge and development practices through hands-on learning.
 
@@ -22,31 +22,31 @@ I'm continuously improving my programming fundamentals, software architecture kn
 
 ### 💻 Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java" />
 </p>
 
 ### 🎨 Front-End
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
 ### ⚙️ Back-End
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,python" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ### 🔧 Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -60,36 +60,40 @@ I'm continuously improving my programming fundamentals, software architecture kn
     src="https://github-stats-extended.vercel.app/api?username=wendelmjesus&show_icons=true&hide_border=true&theme=transparent"
     alt="Wendel's GitHub Stats"
   />
+</p>
 
-<img
- height="170"
- src="https://github-stats-extended.vercel.app/api/top-langs/?username=wendelmjesus&layout=compact&hide_border=true&theme=transparent"
- alt="Most Used Languages"
-/>
-
+<p align="center">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=wendelmjesus&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    alt="Wendel's Most Used Languages"
+  />
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript" />
+</p>
+
 * ⚛️ React
 * 🟢 Node.js
+* 🔷 TypeScript
 * 🔌 REST APIs
 * 🗄️ SQL & Database Design
-* 🧩 Object-Oriented Programming
 * 🏗️ Software Architecture
 * 🌐 Full Stack Development
-* 🌿 Git & GitHub
 
 ---
 
 ## 🎯 Goals
 
-My goal is to become a **Full Stack Developer**, strengthening my knowledge across front-end, back-end and databases while learning to build scalable, maintainable and well-structured applications.
+My goal is to become a **Full Stack Developer**, strengthening my knowledge across front-end, back-end and databases while learning to build clean, maintainable and well-structured applications.
 
 ---
 
 <p align="center">
-  <i>Learning. Building. Improving.</i>
+  <i>Learning • Building • Improving</i>
 </p>
