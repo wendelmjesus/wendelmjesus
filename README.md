@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Wendel 👋</h1>
 
-<p align="center">
-  <strong>Computer Science Student</strong>
-</p>
+<h3 align="center">Computer Science Student • Software Development</h3>
 
 <p align="center">
   Building, learning and improving through real projects.
@@ -12,29 +10,30 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** focused on learning software development by building real projects from scratch.
+I'm a **Computer Science student** interested in software development and technology.
 
-I'm interested in exploring different areas of technology, improving my programming skills and learning how software is designed and developed.
+I enjoy learning by building practical applications and understanding how different parts of software work together, from interfaces and application logic to databases and data persistence.
 
-I enjoy turning ideas into functional projects while continuously improving my problem-solving skills.
+Currently, I'm focused on improving my programming fundamentals and developing better, more organized and maintainable software.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Technologies
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-### Tools
+### Database & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" />
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -44,47 +43,33 @@ I enjoy turning ideas into functional projects while continuously improving my p
     alt="Wendel's GitHub Stats"
   />
 
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=wendelmjesus&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-  />
+<img
+ height="170"
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=wendelmjesus&layout=compact&hide_border=true&theme=transparent"
+ alt="Most Used Languages"
+/>
+
 </p>
-
----
-
-## 🚀 Projects
-
-### 🐷 Porquinho
-
-A personal finance application focused on providing a simple and intuitive way to manage financial information.
-
-The project is currently under development, with new features and improvements being added over time.
-
----
-
-### 🐾 Petly
-
-A fictional pet shop website developed as a responsive multi-page front-end project.
-
-The project includes a product catalog, shopping cart, product search, simulated checkout and local data persistence.
-
-`HTML` `CSS` `JavaScript`
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐍 Python
-- 🧩 Object-Oriented Programming
-- 🗄️ Databases
-- 🏗️ Software Architecture
-- 🌐 Web Development
-- 🎯 UI/UX
-- 🌿 Git & GitHub
+* 🐍 Python
+* 🧩 Object-Oriented Programming
+* 🗄️ Databases & SQL
+* 🏗️ Software Architecture
+* 🌐 Web Development
+* 🌿 Git & GitHub
+
+---
+
+## 🎯 Goals
+
+My goal is to keep improving as a developer by building real applications, strengthening my programming fundamentals and learning how to create software that is clean, organized and maintainable.
 
 ---
 
 <p align="center">
-  <i>Learning, building and improving one project at a time.</i>
+  <i>Learning by building.</i>
 </p>
