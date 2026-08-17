@@ -12,9 +12,9 @@
 
 I'm a **Computer Science student** focused on becoming a **Full Stack Developer**.
 
-I enjoy building applications and understanding the complete development process, from creating user interfaces to developing back-end logic, working with APIs and managing databases.
+I enjoy building applications and understanding the complete development process, from creating modern user interfaces to developing back-end logic, working with APIs and managing databases.
 
-I'm continuously improving my programming fundamentals, software architecture knowledge and development practices through hands-on learning.
+I'm continuously improving my programming fundamentals, software architecture knowledge and development practices through hands-on learning and real projects.
 
 ---
 
@@ -29,26 +29,42 @@ I'm continuously improving my programming fundamentals, software architecture kn
 ### 🎨 Front-End
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" />
 </p>
 
 ### ⚙️ Back-End
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-### 🔧 Tools
+### 📦 Package & Runtime
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm" />
+</p>
+
+### 🔧 Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+---
+
+## 📚 Currently Learning
+
+* ⚛️ React and component-based development
+* 🔌 REST API development
+* 🐍 Python back-end development with FastAPI
+* 🗄️ Relational databases and SQL
+* 🏗️ Full Stack application architecture
 
 ---
 
@@ -73,5 +89,5 @@ I'm continuously improving my programming fundamentals, software architecture kn
 ---
 
 <p align="center">
-  <i>Learning • Building • Improving</i>
+  <i>Learning • Building • Improving 🚀</i>
 </p>
